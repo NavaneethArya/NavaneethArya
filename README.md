@@ -50,13 +50,13 @@
 - **Description**: A comprehensive mobile application built with Flutter for seamless communication and user interaction
 - **Tech Stack**: Flutter, Dart, Firebase
 - **Status**: Active Development
-- **Link**: [View Repository](https://github.com/NavaneethArya/chatur_frontend)
+- **Link**: [View Repository](https://github.com/NavaneethArya/CHATUR)
 
 ### 💰 Expense Tracker
 - **Description**: Personal finance management app to track expenses and manage budgets efficiently
 - **Tech Stack**: Flutter, Dart, Firebase
 - **Status**: Active Development
-- **Link**: [View Repository](https://github.com/NavaneethArya/ExpenseTracker)
+- **Link**: [View Repository](https://github.com/NavaneethArya/Expense_Tracker)
 
 ### 🎓 Edu_Link
 - **Description**: Educational platform for connecting students and resources
@@ -66,9 +66,7 @@
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-arya2004/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneetharyarao@gmail.com)
 
 ## 💡 Current Focus
