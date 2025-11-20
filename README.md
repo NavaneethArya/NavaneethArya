@@ -2,25 +2,29 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting projects** in various technologies
-- 🌱 I'm learning and exploring new technologies
+- 🔭 I'm currently working on **mobile app development** projects
+- 🌱 I'm learning **Flutter** and **Core Java**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **Java, JavaScript, Dart, Flutter, or Web Development**
-- 📫 How to reach me: [Your Email/Contact]
-- ⚡ Fun fact: I love solving complex problems and building innovative solutions
+- 💬 Ask me about **Core Java, Dart, Flutter, or App Development**
+- 📫 How to reach me: [navaneetharyarao@gmail.com](mailto:navaneetharyarao@gmail.com) / 8867150155
+- ⚡ Fun fact: I love solving complex problems and building innovative mobile applications
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -30,7 +34,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavaneethArya&theme=radical&hide_border=false&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=NavaneethArya&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NavaneethArya&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
@@ -38,9 +42,21 @@
 
 ## 📈 Contribution Graph
 
-![Navaneeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NavaneethArya&theme=redical&hide_border=true)
+![Navaneeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NavaneethArya&theme=radical&hide_border=true)
 
 ## 🔥 Featured Projects
+
+### 💬 Chatur
+- **Description**: A comprehensive mobile application built with Flutter for seamless communication and user interaction
+- **Tech Stack**: Flutter, Dart, Firebase
+- **Status**: Active Development
+- **Link**: [View Repository](https://github.com/NavaneethArya/chatur_frontend)
+
+### 💰 Expense Tracker
+- **Description**: Personal finance management app to track expenses and manage budgets efficiently
+- **Tech Stack**: Flutter, Dart, Firebase
+- **Status**: Active Development
+- **Link**: [View Repository](https://github.com/NavaneethArya/ExpenseTracker)
 
 ### 🎓 Edu_Link
 - **Description**: Educational platform for connecting students and resources
@@ -48,31 +64,19 @@
 - **Status**: Active Development
 - **Link**: [View Repository](https://github.com/NavaneethArya/edu_link)
 
-### 💊 MedEtherial
-- **Description**: Medical application for healthcare management
-- **Tech Stack**: JavaScript
-- **Status**: Active Development
-- **Link**: [View Repository](https://github.com/NavaneethArya/MedEtherial)
-
-### 💬 ChatApp
-- **Description**: Real-time chat application
-- **Tech Stack**: Java
-- **Status**: Active Development
-- **Link**: [View Repository](https://github.com/NavaneethArya/ChatApp)
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneetharyarao@gmail.com)
 
 ## 💡 Current Focus
 
-- 🔨 Building robust applications
-- 📚 Learning new technologies
-- 🌐 Contributing to open source
-- 🎯 Improving coding skills
+- 🔨 Building robust mobile applications with Flutter
+- 📚 Mastering Core Java and advanced Flutter concepts
+- 🌐 Contributing to open source projects
+- 🎯 Enhancing app development skills
 
 ## 📝 Latest Blog Posts
 
